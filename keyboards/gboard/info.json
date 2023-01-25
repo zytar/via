@@ -1,0 +1,38 @@
+{
+    "keyboard_name": "gboard",
+    "manufacturer": "gboard",
+    "url": "",
+    "maintainer": "kb-gboard",
+    "usb": {
+        "vid": "0xB23B",
+        "pid": "0x1688",
+        "device_version": "0.0.1"
+    },
+    "layouts": {
+        "LAYOUT_all": {
+            "layout": [
+                {"label":"B", "x":1.75, "y":2},
+            ]
+        },
+        "LAYOUT_65_ansi_blocker": {
+            "layout": [
+                {"label":"B", "x":1.75, "y":2},
+            ]
+        },
+        "LAYOUT_65_ansi_blocker_tsangan": {
+            "layout": [
+                {"label":"B", "x":1.75, "y":2},
+            ]
+        },
+        "LAYOUT_65_iso_blocker": {
+            "layout": [
+                {"label":"B", "x":1.75, "y":2},
+            ]
+        },
+        "LAYOUT_65_iso_blocker_tsangan": {
+            "layout": [
+                {"label":"B", "x":1.75, "y":2},
+            ]
+        }
+    }
+}

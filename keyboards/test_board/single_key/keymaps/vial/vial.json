@@ -1,0 +1,10 @@
+{
+  "name": "single_key",
+  "lighting": "vialrgb",
+  "matrix": {"rows": 1, "cols": 1},
+  "layouts": {
+    "keymap": [
+      ["0,0"]
+    ]
+  }
+}
